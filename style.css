@@ -1,0 +1,21 @@
+#jumbotron{
+    background-image: url(landscape.jpg);
+    background-size: cover;
+    height: 55em;
+    padding: 17em;
+}
+#jumbotron hr{
+    width: 7.25em;
+    margin: 1em;
+    color: white;
+}
+
+.btn-transparents{
+    background-color: rgba(255, 255, 255,0.7);
+    color: black;
+}
+
+#feature{
+    background-color: rgba(255, 255, 255,0.7);
+    color: #60778B;
+}
