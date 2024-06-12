@@ -19,3 +19,65 @@
     background-color: rgba(255, 255, 255,0.7);
     color: #60778B;
 }
+
+.th-title{
+    color: white, !important;
+    font-size: 1.3rem, !important;
+}
+
+.th-premium{
+    background-color: rgb(227,83,108), !important;
+}
+
+.th-standard{
+    background-color: rgb(62,199,224), !important;
+}
+
+.th-free{
+    background-color: rgb(120,207,190), !important;
+}
+
+.th-subtitle{
+    color: white,;
+    font-size: 1.3rem,;
+}
+
+.th-premium-sub{
+    background-color: rgba(227,83,108,0.7);
+}
+
+.th-standard-sub{
+    background-color: rgba(62,199,224,0.7);
+}
+
+.th-free-sub{
+    background-color: rgba(120,207,190,0.7);
+}
+
+#teams h5{
+    color: rgb(39, 39, 82);
+}
+
+.btn-midnightblue{
+    background-color: rgb(22, 86, 129);
+    color: white;
+}
+
+.p-subtitle{
+    color: rgb(95, 91, 91);
+    font-size: 0.9rem;
+}
+
+footer-ul-li-a{
+    text-decoration: none;
+    color: darkgray;
+}
+
+footer-p{
+    color: darkgray;
+}
+
+footer-ul-li-a :hover{
+    text-decoration: underline;
+    font-size: 1rem;
+}
